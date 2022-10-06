@@ -1,0 +1,13 @@
+{
+  "name": "u2-w6-d4-sass-ii-compito",
+  "version": "1.0.0",
+  "description": "Compito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass:watch":"sass --no-source-map assets/scss/style.scss assets/css/style.css -w"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
