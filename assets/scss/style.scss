@@ -11,6 +11,14 @@ span{
 }
 
  .img-size{
-    @include size(200px);
+    @include size(500px, 235px);
     background-image: url(../img/OIF.jpg)
  }
+.img-size2{
+    @include size(500px, 235px);
+    background-image: url(../img/DBX2.jpg)
+}
+.img-size3{
+    @include size(500px, 235px);
+    background-image: url(../img/Elden-Ring-Header.jpg)
+}
